@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588279193219",
+    "firebase_url": "https://jademagazine-19fae.firebaseio.com",
+    "project_id": "jademagazine-19fae",
+    "storage_bucket": "jademagazine-19fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588279193219:android:c4804050d70a22144605b6",
+        "android_client_info": {
+          "package_name": "com.ongjade.jademagazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588279193219-toqmf2812l67d35vfgucme3n93of0on5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3V4QTkrxvVEmqlqZ9CjqPtkKIeSg0Tnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588279193219-toqmf2812l67d35vfgucme3n93of0on5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
